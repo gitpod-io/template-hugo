@@ -2,7 +2,7 @@
 
 This is a [Hugo](https://gohugo.io/getting-started/quick-start/) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
-To change your theme, [check out the documentation from Hugo](https://gohugo.io/getting-started/quick-start/) and browse the themes [here.](https://themes.gohugo.io/)
+To change your theme, [check out the documentation from Hugo](https://gohugo.io/getting-started/quick-start/) and browse the themes [here.](https://themes.gohugo.io/)  
 
 ## Next Steps
 
@@ -14,8 +14,8 @@ Click the button below to start a new development environment:
 
 ### A new project
 
-Click the above "Open in Gitpod" button to start a new workspace. Once you're ready to push your first code changes, Gitpod will guide you to fork this project so you own it.
+Click the above "Open in Gitpod" button to start a new workspace. Once you're ready to push your first code changes, Gitpod will guide you to fork this project so you own it. In this Gitpod example, `hugo -D` has been run already which shows you the final build of the static site - feel free to delete the `public` folder once you get started. 
 
 ### An existing project
 
-To get started with Create React App on Gitpod, add a [`.gitpod.yml`](./.gitpod.yml) file which contains the configuration to improve the developer experience on Gitpod. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
+To get started with Hugo on Gitpod, add a [`.gitpod.yml`](./.gitpod.yml) file which contains the configuration to improve the developer experience on Gitpod. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.

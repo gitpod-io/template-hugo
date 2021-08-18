@@ -1,0 +1,6 @@
+[submodule "themes/themes/ananke"]
+	path = themes/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/photophobia"]
+	path = themes/photophobia
+	url = https://github.com/setsevireon/photophobia
